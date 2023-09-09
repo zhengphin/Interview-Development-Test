@@ -1,0 +1,39 @@
+*{
+    margin:0px;
+}
+.Sidebar   {
+    width:200px;
+    height: 100vh; /* Set the height to 100% of the viewport height */
+    border-right: 1px solid grey; /* Add a 1px solid black border to all sides */  
+  }
+.Sidebar ul{
+    width:200px;
+    padding-top:100%;
+    display:inline-block;
+  }
+.Sidebar ul li {
+    width:150px;
+    margin-left:50px;
+    color: #3B71CA; /* Set your primary color here */
+    cursor: pointer;
+    padding:10px;
+    font-size:xx-large;
+    padding-top:5px;
+
+  }
+  
+.Sidebar ul li.active {
+    color: black; /* Set the active link color to black */
+    border: 1px solid grey; /* Add a 1px solid black border to all sides */
+    border-right: 1px solid white; /* Add a 1px solid black border to all sides */
+    border-radius:5%;
+
+}
+
+.Sidebar li a {
+    color:inherit;
+    text-decoration:none;
+  }
+
+  
+  

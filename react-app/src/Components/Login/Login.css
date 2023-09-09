@@ -1,0 +1,17 @@
+.LoginForm {
+    text-align: center; /* Center text and inline elements */
+    margin-top:15%;
+  }
+  .LoginForm label {
+    display: inline-block;
+    width:100px;
+  }
+
+  .LoginForm input {
+    margin-top:10px;
+  }
+
+  .LoginForm button {
+    margin-top:20px;
+    width:90px;
+  }

@@ -1,0 +1,20 @@
+.view-icon,
+.edit-icon,
+.trash-icon {
+  font-size: 18px; /* Adjust the font size as needed */
+  vertical-align: middle; /* Align the icons vertically */
+  padding-right:5px;
+
+}
+
+.view-icon {
+  color: #03A9F4; /* Change this to your desired color */
+}
+
+.edit-icon {
+  color: #FFC107;
+}
+
+.trash-icon {
+  color: red;
+}

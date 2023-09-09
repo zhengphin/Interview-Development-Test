@@ -1,0 +1,12 @@
+/* App.css */
+.App {
+  display: flex;
+  align-items: stretch; /* Stretch both the sidebar and content vertically */
+}
+
+
+.content {
+  flex-grow: 1; /* Allow the content to grow and take up available space */
+  padding: 20px; /* Add padding to separate content from the sidebar */
+}
+

@@ -1,0 +1,6 @@
+.Home {
+    margin-top:10%;
+    display: flex;
+    /* By default, flex items will be in a row (horizontally) */
+  }
+  
