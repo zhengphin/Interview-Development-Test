@@ -1,6 +1,6 @@
 # Interview-Development-Test
 
-Assessment Folder(Net Core Mvc) project that return sample data.
+Assessment Folder(Net Core Mvc) project that return sample json data.
 react-app Folder is the react application project.
 
 1) Before start the server of the endpoint please go to program.css to replace with the actual origin of  React.js app to prevent cors issue
