@@ -10,8 +10,8 @@ react-app Folder is the react application project.
 export const API_BASE_URL = 'http://localhost:5049'; // replace with the port of the Assessment project
 
 3）open terminal run :
- npm install
- npm run dev
+npm install
+npm run dev
 
 First Load will load all the customer data
 ![image](https://github.com/zhengphin/Interview-Development-Test/assets/81290239/b643a263-795c-42ff-b2a0-adb15df5aa97)
